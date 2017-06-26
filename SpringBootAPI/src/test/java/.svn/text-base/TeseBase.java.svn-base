@@ -1,0 +1,17 @@
+import com.utils.WebClient;
+
+import java.util.HashMap;
+import java.util.Map;
+
+/**
+ * Created by Administrator on 2017/4/14.
+ */
+public class TeseBase {
+    public static void main(String[] args) {
+        Map<String, String> map = new HashMap<>();
+        map.put("uploadPath","11");
+        map.put("savePath","22");
+        map.put("fileName","33");
+        String json = WebClient.doPost(map, "http://172.16.10.3:7777/api/yanyou/fileUpload", "utf-8");
+    }
+}

@@ -1,0 +1,52 @@
+package com.api;
+
+import com.utils.JsonResult;
+import io.swagger.annotations.ApiImplicitParam;
+import io.swagger.annotations.ApiImplicitParams;
+import io.swagger.annotations.ApiOperation;
+import org.springframework.web.bind.annotation.*;
+
+import java.util.HashMap;
+import java.util.Map;
+
+/**
+ * Created by 123Administrator on 2017/6/2.
+ */
+@RestController
+@RequestMapping(value="/api/common")
+public class CommonApi {
+
+    @ApiOperation(value="获取用户详细信息", notes="根据url的id来获取用户详细信息")
+    @ApiImplicitParam(name = "id", value = "用户ID", required = true, dataType = "Long")
+    @RequestMapping(value="/{id}", method=RequestMethod.GET)
+    public JsonResult getUser(@PathVariable Long id) {
+        JsonResult ret=new JsonResult();
+        ret.setCode("101");
+        ret.setMsg("成功");
+        ret.setSuccess(true);
+        ret.setData("123");
+        return ret;
+    }
+
+    @ApiOperation(value="登录", notes="登录",produces = "application/json")
+    @ApiImplicitParams({
+            @ApiImplicitParam(name = "userName", value = "用户名", required = true,paramType = "query", dataType = "String"),
+            @ApiImplicitParam(name = "password", value = "密码", required = true,paramType = "query", dataType = "String"),
+            @ApiImplicitParam(name = "code", value = "验证码", required = true,paramType = "query", dataType = "String")
+    })
+    @RequestMapping(value="/login", method=RequestMethod.GET)
+    public JsonResult login(@RequestParam String userName, @RequestParam String password, @RequestParam String code) {
+        Map<String,String> map=new HashMap<>();
+        map.put("userName",userName);
+        map.put("password",password);
+        map.put("code",code);
+        JsonResult ret=new JsonResult();
+        ret.setCode("101");
+        ret.setMsg("成功");
+        ret.setSuccess(true);
+        ret.setData(map);
+        return ret;
+    }
+
+
+}

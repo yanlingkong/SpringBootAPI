@@ -1,0 +1,52 @@
+/**
+ * Copyright:   www.batsoft.cn 
+ * @author:      Yuan Zhicheng
+ * @version:      V1.0 
+ * @Date:        2016年12月10日 下午3:01:08
+ */
+package com.api;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.builder.SpringApplicationBuilder;
+import org.springframework.boot.context.properties.EnableConfigurationProperties;
+import org.springframework.boot.web.servlet.ServletComponentScan;
+
+/**
+ * <p> TODO </p>
+ * @author:         Yuan Zhicheng 
+ * @Date :          2016年12月10日 下午3:01:08 
+ */
+@EnableAutoConfiguration
+@SpringBootApplication
+@ServletComponentScan
+@EnableConfigurationProperties
+public class ApiApplication /*extends SpringBootServletInitializer*/ {
+    
+    private static final Logger logger = LoggerFactory.getLogger(ApiApplication.class);
+
+    /**
+     * 支持部署到 tomcat
+     */
+   /* @Override
+    protected SpringApplicationBuilder  configure(SpringApplicationBuilder builder) {
+        return builder.sources(this.getClass());
+    }*/
+
+    /**
+     * 
+     * <p> main 支持 run运行</p>
+     * @author:         Yuan Zhicheng
+     * @param:    @param args
+     * @param:    @throws Exception
+     * @return: void 
+     * @Date :          2016年12月14日 下午12:25:04    
+     * @throws:
+     */
+    public static void main(String[] args) throws Exception {
+    	new SpringApplicationBuilder(ApiApplication.class).web(true).run(args);
+    }
+   
+}

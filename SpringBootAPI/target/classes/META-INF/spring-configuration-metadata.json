@@ -1,0 +1,431 @@
+{
+  "hints": [],
+  "properties": [
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.FtpConfig",
+      "name": "api.anbang.ftp.ftp-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.FtpConfig",
+      "name": "api.anbang.ftp.ftp-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.FtpConfig",
+      "name": "api.anbang.ftp.ftp-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.FtpConfig",
+      "name": "api.anbang.ftp.ftp-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.FtpConfig",
+      "name": "api.anbang.ftp.ftp-port",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.FtpConfig",
+      "name": "api.anbang.ftp.ftp-port",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.FtpConfig",
+      "name": "api.anbang.ftp.ftp-port",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.FtpConfig",
+      "name": "api.anbang.ftp.ftp-port",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.FtpConfig",
+      "name": "api.anbang.ftp.ftp-user",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.FtpConfig",
+      "name": "api.anbang.ftp.ftp-user",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.FtpConfig",
+      "name": "api.anbang.ftp.ftp-user",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.FtpConfig",
+      "name": "api.anbang.ftp.ftp-user",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.FtpConfig",
+      "name": "api.anbang.ftp.ip",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.FtpConfig",
+      "name": "api.anbang.ftp.ip",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.FtpConfig",
+      "name": "api.anbang.ftp.ip",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.FtpConfig",
+      "name": "api.anbang.ftp.ip",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.FtpConfig",
+      "name": "api.qianrui.ftp.ftp-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.FtpConfig",
+      "name": "api.qianrui.ftp.ftp-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.FtpConfig",
+      "name": "api.qianrui.ftp.ftp-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.FtpConfig",
+      "name": "api.qianrui.ftp.ftp-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.FtpConfig",
+      "name": "api.qianrui.ftp.ftp-port",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.FtpConfig",
+      "name": "api.qianrui.ftp.ftp-port",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.FtpConfig",
+      "name": "api.qianrui.ftp.ftp-port",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.FtpConfig",
+      "name": "api.qianrui.ftp.ftp-port",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.FtpConfig",
+      "name": "api.qianrui.ftp.ftp-user",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.FtpConfig",
+      "name": "api.qianrui.ftp.ftp-user",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.FtpConfig",
+      "name": "api.qianrui.ftp.ftp-user",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.FtpConfig",
+      "name": "api.qianrui.ftp.ftp-user",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.FtpConfig",
+      "name": "api.qianrui.ftp.ip",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.FtpConfig",
+      "name": "api.qianrui.ftp.ip",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.FtpConfig",
+      "name": "api.qianrui.ftp.ip",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.FtpConfig",
+      "name": "api.qianrui.ftp.ip",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.QianruiProperties",
+      "name": "api.qianrui.fund-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.QianruiProperties",
+      "name": "api.qianrui.fund-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.QianruiProperties",
+      "name": "api.qianrui.order-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.QianruiProperties",
+      "name": "api.qianrui.order-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.SftpConfig",
+      "name": "api.qianrui.sftp.sftp-ip",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.SftpConfig",
+      "name": "api.qianrui.sftp.sftp-ip",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.SftpConfig",
+      "name": "api.qianrui.sftp.sftp-ip",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.SftpConfig",
+      "name": "api.qianrui.sftp.sftp-ip",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.SftpConfig",
+      "name": "api.qianrui.sftp.sftp-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.SftpConfig",
+      "name": "api.qianrui.sftp.sftp-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.SftpConfig",
+      "name": "api.qianrui.sftp.sftp-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.SftpConfig",
+      "name": "api.qianrui.sftp.sftp-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.SftpConfig",
+      "name": "api.qianrui.sftp.sftp-port",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.SftpConfig",
+      "name": "api.qianrui.sftp.sftp-port",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.SftpConfig",
+      "name": "api.qianrui.sftp.sftp-port",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.SftpConfig",
+      "name": "api.qianrui.sftp.sftp-port",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.SftpConfig",
+      "name": "api.qianrui.sftp.sftp-user",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.SftpConfig",
+      "name": "api.qianrui.sftp.sftp-user",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.SftpConfig",
+      "name": "api.qianrui.sftp.sftp-user",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.SftpConfig",
+      "name": "api.qianrui.sftp.sftp-user",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.SftpConfig",
+      "name": "api.yanyou.sftp.sftp-ip",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.SftpConfig",
+      "name": "api.yanyou.sftp.sftp-ip",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.SftpConfig",
+      "name": "api.yanyou.sftp.sftp-ip",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.SftpConfig",
+      "name": "api.yanyou.sftp.sftp-ip",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.SftpConfig",
+      "name": "api.yanyou.sftp.sftp-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.SftpConfig",
+      "name": "api.yanyou.sftp.sftp-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.SftpConfig",
+      "name": "api.yanyou.sftp.sftp-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.SftpConfig",
+      "name": "api.yanyou.sftp.sftp-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.SftpConfig",
+      "name": "api.yanyou.sftp.sftp-port",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.SftpConfig",
+      "name": "api.yanyou.sftp.sftp-port",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.SftpConfig",
+      "name": "api.yanyou.sftp.sftp-port",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.SftpConfig",
+      "name": "api.yanyou.sftp.sftp-port",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.SftpConfig",
+      "name": "api.yanyou.sftp.sftp-user",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.SftpConfig",
+      "name": "api.yanyou.sftp.sftp-user",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.SftpConfig",
+      "name": "api.yanyou.sftp.sftp-user",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.config.SftpConfig",
+      "name": "api.yanyou.sftp.sftp-user",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.ShortUrlProperties",
+      "name": "shorturl.source",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.ShortUrlProperties",
+      "name": "shorturl.source",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.ShortUrlProperties",
+      "name": "shorturl.url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.ShortUrlProperties",
+      "name": "shorturl.url",
+      "type": "java.lang.String"
+    }
+  ],
+  "groups": [
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.AnbangProperties",
+      "name": "api.anbang",
+      "type": "com.hurongsoft.configuration.properties.AnbangProperties"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.AnbangProperties",
+      "sourceMethod": "getFtp()",
+      "name": "api.anbang.ftp",
+      "type": "com.hurongsoft.configuration.properties.config.FtpConfig"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.AnbangProperties",
+      "name": "api.anbang.ftp",
+      "type": "com.hurongsoft.configuration.properties.config.FtpConfig"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.QianruiProperties",
+      "name": "api.qianrui",
+      "type": "com.hurongsoft.configuration.properties.QianruiProperties"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.QianruiProperties",
+      "sourceMethod": "getFtp()",
+      "name": "api.qianrui.ftp",
+      "type": "com.hurongsoft.configuration.properties.config.FtpConfig"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.QianruiProperties",
+      "name": "api.qianrui.ftp",
+      "type": "com.hurongsoft.configuration.properties.config.FtpConfig"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.QianruiProperties",
+      "sourceMethod": "getSftp()",
+      "name": "api.qianrui.sftp",
+      "type": "com.hurongsoft.configuration.properties.config.SftpConfig"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.QianruiProperties",
+      "name": "api.qianrui.sftp",
+      "type": "com.hurongsoft.configuration.properties.config.SftpConfig"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.YanyouProperties",
+      "name": "api.yanyou",
+      "type": "com.hurongsoft.configuration.properties.YanyouProperties"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.YanyouProperties",
+      "sourceMethod": "getSftp()",
+      "name": "api.yanyou.sftp",
+      "type": "com.hurongsoft.configuration.properties.config.SftpConfig"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.YanyouProperties",
+      "name": "api.yanyou.sftp",
+      "type": "com.hurongsoft.configuration.properties.config.SftpConfig"
+    },
+    {
+      "sourceType": "com.hurongsoft.configuration.properties.ShortUrlProperties",
+      "name": "shorturl",
+      "type": "com.hurongsoft.configuration.properties.ShortUrlProperties"
+    }
+  ]
+}
